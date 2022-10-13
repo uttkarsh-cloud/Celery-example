@@ -1,3 +1,3 @@
 # Celery-example
 
-Celery project for maintaining tasks and scheduling them.
+Celery project for maintaining tasks and scheduling them on time.
